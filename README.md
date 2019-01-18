@@ -1,2 +1,2 @@
-# improved-invention
+# SocioSkills
 Socioskills
